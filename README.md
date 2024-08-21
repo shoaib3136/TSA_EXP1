@@ -1,5 +1,7 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
-###  Date: 
+###  Developed by: Shaik Shoaib Nawaz
+###  Register No: 212222240094
+###  Date:  
 
 # AIM:
 To Develop a python program to Plot a time series data of power consumption.
