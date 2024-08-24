@@ -17,6 +17,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/KwhConsumptionBlower78_1.csv")
 data.head()
+mean_consumption = data['Consumption'].mean()
+print(f"Mean Consumption: {mean_consumption}")
 data['TxnDate']=pd.to_datetime(data['TxnDate'])
 data.set_index('TxnDate',inplace=True)
 plt.plot(data.index,data['Consumption'],label='Consumption')
@@ -33,7 +35,7 @@ plt.show()
 ![Dataset](image1.png)
 
 # OUTPUT:
-
+![mean](image3.png)
 ![Output](image2.png)
 
 
