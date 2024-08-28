@@ -47,4 +47,4 @@ plt.show()
 
 
 # RESULT:
-Thus, The python code for plotting the time series of given dataset is succesfully executed.
+Thus, The python code for plotting the time series of given dataset is successfully executed.
