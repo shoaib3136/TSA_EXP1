@@ -1,8 +1,8 @@
-# Ex.No: 01A PLOT A TIME SERIES DATA
-
 ###  Developed by: Shaik Shoaib Nawaz
 
 ###  Register No: 212222240094
+
+# Ex.No: 01A PLOT A TIME SERIES DATA
 
 ###  Date:  
 
